@@ -12,9 +12,37 @@
    - If you included an LDR, the LEDs can also turn on **automatically in darkness**.  
 
 3. **Compact Design**:  
-   - Powered by a **small battery (e.g., coin cell or 3V CR2032)** for portability.  
+   - Powered by a **small battery (e.g., coin cell or 3V CR2032)** for portability.
+  
+   - **Images of The Project**
+![PCB Preview](https://github.com/Armaan240/PIKAPCB/blob/main/Screenshot%20(13).png)
+![PCB Preview](https://github.com/Armaan240/PIKAPCB/blob/main/Screenshot%20(14).png)
+![PCB Preview](https://github.com/Armaan240/PIKAPCB/blob/main/Screenshot%20(16).png)
+![PCB Preview](https://github.com/Armaan240/PIKAPCB/blob/main/Screenshot%20(17).png)
+![PCB Preview](https://github.com/Armaan240/PIKAPCB/blob/main/Screenshot%20(15).png)
 
 ---
+
+## 📦 **Bill of Materials (BoM) – Pikachu PCB Project**
+
+| **#** | **Part Name**               | **Label** | **Value/Type**     | **Package / Footprint**                             | **Qty** |
+| ----- | --------------------------- | --------- | ------------------ | --------------------------------------------------- | ------- |
+| 1     | NPN Transistor              | Q1        | BC547 or 2N3904    | TO-92 (TO-92\_Inline)                               | 1       |
+| 2     | Light Dependent Resistor    | LDR       | GL5528 (typical)   | Resistor\_THT\:R-2.5 (or similar photoresistor pad) | 1       |
+| 3     | Resistor                    | R1        | 10kΩ               | R\_Axial\_DIN0207\_L6.3mm\_P7.62mm\_Horizontal      | 1       |
+| 4     | Resistor                    | R2        | 220Ω – 470Ω        | Same as above                                       | 1       |
+| 5     | Red LED                     | L1        | 5mm LED            | LED\_THT\:LED\_D5.0mm                               | 1       |
+| 6     | Red LED                     | L2        | 5mm LED            | LED\_THT\:LED\_D5.0mm                               | 1       |
+| 7     | Tactile Push Button         | SW1       | 6x6 mm Push Button | Button\_Switch\_THT\:SW\_PUSH\_6mm\_H5mm            | 1       |
+| 8     | Coin Vibration Motor        | M1        | 3V Vibration Motor | Connected via header (Conn\_01x02\_Male)            | 1       |
+| 9     | Diode (Flyback)             | D1        | 1N4148 or 1N5819   | D\_DO-41\_SOD81\_P10.16mm\_Horizontal               | 1       |
+| 10    | Coin Cell Battery Holder    | BT1       | CR2032 Holder      | Battery\_Holder\_Keystone\_3002\_1x20mm             | 1       |
+| 11    | Generic Header (Motor Pads) | J1        | 2-pin male header  | Conn\_01x02\_Male or TestPoints                     | 1       |
+
+---
+
+Would you like me to export this BoM in `.csv` or `.xlsx` format ready for JLCPCB/assembly quoting?
+
 
 ### **Design Choices & Challenges**  
 #### **Why This Design?**  
