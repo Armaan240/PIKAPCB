@@ -21,7 +21,7 @@
 ![PCB Preview](https://github.com/Armaan240/PIKAPCB/blob/main/Screenshot%20(13).png)
 ![PCB Preview](https://github.com/Armaan240/PIKAPCB/blob/main/Screenshot%20(14).png)
 ![PCB Preview](https://github.com/Armaan240/PIKAPCB/blob/main/Screenshot%20(16).png)
-![PCB Preview](https://github.com/Armaan240/PIKAPCB/blob/main/Screenshot%20(17).png)
+![PCB Preview](https://github.com/Armaan240/PIKAPCB/blob/main/Screenshot%20(18).png)
 ![PCB Preview](https://github.com/Armaan240/PIKAPCB/blob/main/Screenshot%20(15).png)
 
 ---
