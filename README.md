@@ -2,7 +2,7 @@
 
 
 ---
-### ** SLACK ID U091M21518T**
+### **SLACK ID U091M21518T**
 ### **SLACK USERNAME @Amu**
 
 
