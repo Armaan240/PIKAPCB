@@ -2,8 +2,8 @@
 
 
 ---
-### *** SLACK ID U091M21518T***
-### *** SLACK USERNAME @Amu***
+### ** SLACK ID U091M21518T**
+### **SLACK USERNAME @Amu**
 
 
 ### **What This Circuit Does**  
